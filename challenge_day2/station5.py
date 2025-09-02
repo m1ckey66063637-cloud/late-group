@@ -1,7 +1,7 @@
 def solution_station_5(name: str) -> int:
     learning_teams = {
         1: [
-            "Daeho", "David", "Kaisa", "Oliver", "Sara", "Dan", "Ivar", "Lotte", "Riya", "Vassil",
+            "Daeho", "David G", "Kaisa", "Oliver", "Sara", "Dan", "Ivar", "Lotte", "Riya", "Vassil",
             "Twan", "Ester", "Karolina", "Lena", "Margarita", "Anna", "Kien", "Klaudia", "Maliah", "Todd"
         ],
         2: [
