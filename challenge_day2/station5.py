@@ -29,5 +29,5 @@ def solution_station_5(name: str) -> int:
     for team_number, members in learning_teams.items():
         if any(key == m.casefold() for m in members):
             return team_number
-        
+    print（'error')
     return -1
