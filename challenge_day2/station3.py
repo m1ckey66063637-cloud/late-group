@@ -1,3 +1,2 @@
-def solution_station_3(input_number: int) -> bool:
-    from sympy import isprime
-    return isprime(input_number)
+def solution_station_3(x: int) -> bool:
+    return x % 3 == 0
