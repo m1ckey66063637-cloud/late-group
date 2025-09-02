@@ -1,0 +1,38 @@
+# station1.py
+import math
+
+def fib_fast_doubling(n: int):
+    """
+    Compute Fibonacci(n) using the fast doubling method.
+    This algorithm runs in O(log n) time.
+    """
+    def fd(k):
+        if k == 0:
+            return (0, 1)
+        else:
+            a, b = fd(k >> 1)
+            c = a * ((b << 1) - a)
+            d = a * a + b * b
+            if k & 1:
+                return (d, c + d)
+            else:
+                return (c, d)
+    return fd(n)[0]
+
+def solution_station_1(n: int):
+    """
+    Returns the correct output based on the rule:
+    - If n >= 90 → return n! (factorial)
+    - If n < 90  → return Fibonacci(n)
+    """
+    if n >= 90:
+        return math.factorial(n)
+    else:
+        return fib_fast_doubling(n)
+
+# Example run
+if __name__ == "__main__":
+    test_inputs = [95, 98, 70, 71, 72, 73, 76, 88, 91, 67, 19, 22, 49]
+    for x in test_inputs:
+        print(f"{x} -> {solution_station_1(x)}")
+
