@@ -1,6 +1,4 @@
-
-def main():
-    # Define variables
+def solution_station_7(expr: str) -> float:
     a = 3
     b = -1
     c = 4
@@ -8,21 +6,12 @@ def main():
     e = 0.5
 
     values = {"a": a, "b": b, "c": c, "d": d, "e": e}
+    
+    return eval(expr, {}, values)
 
-    print("Defined variables:")
-    for k, v in values.items():
-        print(f"{k} = {v}")
-
-    total = sum(values.values())
-    average = total / len(values)
-    maximum = max(values.values())
-    minimum = min(values.values())
-
-    print("\nCalculated results:")
-    print(f"Sum = {total}")
-    print(f"Average = {average}")
-    print(f"Max = {maximum}")
-    print(f"Min = {minimum}")
 
 if __name__ == "__main__":
-    main()
+    test_exprs = ["d+b*c*e", "a+e", "d*e+b"]
+    for expr in test_exprs:
+        result = solution_station_7(expr)
+        print(f"{expr} = {result}")
