@@ -1,7 +1,21 @@
+# Function to safely read a file
+safe_read_file <- function(filepath) {
+  if (!file.exists(filepath)) {
+    stop(sprintf("Input file not found: %s", filepath))
+  }
+  tryCatch({
+    json_file <- file(filepath, "r")
+    json_text <- readLines(json_file)
+    close(json_file)
+    return(json_text)
+  }, error = function(e) {
+    if (!is.null(json_file) && isOpen(json_file)) close(json_file)
+    stop(sprintf("Error reading file: %s", e$message))
+  })
+}
+
 # Read the JSON file as text
-json_file <- file("/Users/voldemarq/late-group/challenge_day4/fulldata/data1.json", "r")
-json_text <- readLines(json_file)
-close(json_file)
+json_text <- safe_read_file("/Users/voldemarq/late-group/challenge_day4/fulldata/data1.json")
 
 # Basic JSON parsing (since we know the structure)
 # Remove curly braces and "people": [ from the start
@@ -18,18 +32,35 @@ people_records[length(people_records)] <- gsub("\\}$", "", people_records[length
 parse_record <- function(record) {
   # Extract name
   name <- gsub('.*"name":\\s*"([^"]+)".*', "\\1", record)
+  if (name == record) {
+    warning("Could not extract name from record")
+    name <- "Unknown"
+  }
   
-  # Extract skills
+  # Extract skills with validation
+  extract_skill <- function(skill_name, record) {
+    value <- as.numeric(gsub(sprintf('.*"%s":\\s*(\\d+).*', skill_name), "\\1", record))
+    if (is.na(value)) {
+      warning(sprintf("Could not extract %s from record", skill_name))
+    }
+    return(value)
+  }
+  
   skills <- c(
-    "Technical Skills" = as.numeric(gsub('.*"Technical Skills":\\s*(\\d+).*', "\\1", record)),
-    "Soft Skills" = as.numeric(gsub('.*"Soft Skills":\\s*(\\d+).*', "\\1", record)),
-    "Business Skills" = as.numeric(gsub('.*"Business Skills":\\s*(\\d+).*', "\\1", record)),
-    "Creative Skills" = as.numeric(gsub('.*"Creative Skills":\\s*(\\d+).*', "\\1", record)),
-    "Academic Skills" = as.numeric(gsub('.*"Academic Skills":\\s*(\\d+).*', "\\1", record))
+    "Technical Skills" = extract_skill("Technical Skills", record),
+    "Soft Skills" = extract_skill("Soft Skills", record),
+    "Business Skills" = extract_skill("Business Skills", record),
+    "Creative Skills" = extract_skill("Creative Skills", record),
+    "Academic Skills" = extract_skill("Academic Skills", record)
   )
   
   # Handle missing values
-  skills[is.na(skills)] <- mean(skills, na.rm=TRUE)
+  mean_skill <- mean(skills, na.rm=TRUE)
+  if (is.na(mean_skill)) {
+    warning("No valid skills found, using 0 as default")
+    mean_skill <- 0
+  }
+  skills[is.na(skills)] <- mean_skill
   
   c(list(name=name), as.list(skills))
 }
@@ -39,6 +70,10 @@ people_data <- lapply(people_records, parse_record)
 
 # Convert back to JSON format
 make_json <- function(people) {
+  if (length(people) == 0) {
+    return('{"people": []}')
+  }
+  
   records <- sapply(people, function(p) {
     sprintf('{
       "name": "%s",
@@ -56,4 +91,8 @@ make_json <- function(people) {
 
 # Generate and write the output
 output_json <- make_json(people_data)
-writeLines(output_json, "/Users/voldemarq/late-group/challenge_day4/fulldata/data2.json")
+tryCatch({
+  writeLines(output_json, "/Users/voldemarq/late-group/challenge_day4/fulldata/data2.json")
+}, error = function(e) {
+  stop(sprintf("Error writing output file: %s", e$message))
+})
