@@ -1,84 +1,804 @@
 {
   "people": [
     {
-      "name": "Ken",
-      "Technical Skills": 10.0,
-      "Soft Skills": 9.0,
+      "name": "Leo",
+      "Technical Skills": 8.0,
+      "Soft Skills": 10.0,
       "Business Skills": 8.0,
-      "Creative Skills": 1.0,
-      "Academic Skills": 10.0
+      "Creative Skills": 9.0,
+      "Academic Skills": 6.0
     },
     {
-      "name": "Uma",
-      "Technical Skills": 4.0,
-      "Soft Skills": 5.5,
-      "Business Skills": 1.0,
+      "name": "Liam",
+      "Technical Skills": 10.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 8.8,
       "Creative Skills": 8.0,
       "Academic Skills": 9.0
     },
     {
-      "name": "Yara",
-      "Technical Skills": 4.0,
-      "Soft Skills": 4.2,
-      "Business Skills": 1.0,
-      "Creative Skills": 3.0,
-      "Academic Skills": 9.0
-    },
-    {
-      "name": "Karen",
-      "Technical Skills": 7.0,
-      "Soft Skills": 4.7,
-      "Business Skills": 3.0,
-      "Creative Skills": 4.0,
-      "Academic Skills": 4.7
-    },
-    {
-      "name": "Dave",
-      "Technical Skills": 9.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 8.2,
-      "Creative Skills": 7.0,
-      "Academic Skills": 7.0
-    },
-    {
-      "name": "Kristen",
-      "Technical Skills": 9.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 8.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 9.0
-    },
-    {
-      "name": "Paula",
-      "Technical Skills": 5.0,
-      "Soft Skills": 5.0,
-      "Business Skills": 2.0,
-      "Creative Skills": 1.0,
-      "Academic Skills": 8.0
-    },
-    {
-      "name": "Ursula",
+      "name": "Neil",
       "Technical Skills": 10.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 8.7,
-      "Academic Skills": 8.7
-    },
-    {
-      "name": "Ivy",
-      "Technical Skills": 7.2,
-      "Soft Skills": 5.0,
+      "Soft Skills": 4.0,
       "Business Skills": 7.0,
       "Creative Skills": 8.0,
       "Academic Skills": 9.0
     },
     {
-      "name": "Roger",
+      "name": "Wesley",
+      "Technical Skills": 1.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 7.0,
+      "Creative Skills": 6.0,
+      "Academic Skills": 7.0
+    },
+    {
+      "name": "Hugo",
       "Technical Skills": 9.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 1.0,
+      "Creative Skills": 1.0,
+      "Academic Skills": 2.0
+    },
+    {
+      "name": "Kathy",
+      "Technical Skills": 5.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 6.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Emily",
+      "Technical Skills": 6.7,
+      "Soft Skills": 9.0,
+      "Business Skills": 2.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 6.7
+    },
+    {
+      "name": "Bob",
+      "Technical Skills": 5.0,
+      "Soft Skills": 4.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Lenny",
+      "Technical Skills": 6.5,
+      "Soft Skills": 9.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 5.0,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Jeff",
+      "Technical Skills": 7.0,
       "Soft Skills": 1.0,
-      "Business Skills": 6.7,
-      "Creative Skills": 6.7,
+      "Business Skills": 1.0,
+      "Creative Skills": 10.0,
       "Academic Skills": 10.0
+    },
+    {
+      "name": "Nina",
+      "Technical Skills": 1.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Mabel",
+      "Technical Skills": 10.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 7.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Kristen",
+      "Technical Skills": 5.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Gail",
+      "Technical Skills": 6.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 1.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 5.0
+    },
+    {
+      "name": "Yasmine",
+      "Technical Skills": 2.0,
+      "Soft Skills": 5.5,
+      "Business Skills": 9.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 2.0
+    },
+    {
+      "name": "Tim",
+      "Technical Skills": 10.0,
+      "Soft Skills": 6.0,
+      "Business Skills": 5.0,
+      "Creative Skills": 1.0,
+      "Academic Skills": 3.0
+    },
+    {
+      "name": "Yvonne",
+      "Technical Skills": 8.7,
+      "Soft Skills": 9.0,
+      "Business Skills": 8.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 8.7
+    },
+    {
+      "name": "Owen",
+      "Technical Skills": 2.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Fay",
+      "Technical Skills": 1.0,
+      "Soft Skills": 1.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 2.0
+    },
+    {
+      "name": "Jack",
+      "Technical Skills": 1.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 4.3,
+      "Academic Skills": 4.3
+    },
+    {
+      "name": "Norm",
+      "Technical Skills": 10.0,
+      "Soft Skills": 5.0,
+      "Business Skills": 2.0,
+      "Creative Skills": 6.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Duke",
+      "Technical Skills": 3.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 4.5,
+      "Creative Skills": 1.0,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Tracy",
+      "Technical Skills": 10.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Rose",
+      "Technical Skills": 10.0,
+      "Soft Skills": 7.3,
+      "Business Skills": 7.3,
+      "Creative Skills": 3.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Steve",
+      "Technical Skills": 2.0,
+      "Soft Skills": 6.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Irene",
+      "Technical Skills": 7.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 5.0
+    },
+    {
+      "name": "Roger",
+      "Technical Skills": 8.0,
+      "Soft Skills": 1.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Sam",
+      "Technical Skills": 8.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 8.3,
+      "Creative Skills": 8.3,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Victor",
+      "Technical Skills": 10.0,
+      "Soft Skills": 2.0,
+      "Business Skills": 2.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 2.0
+    },
+    {
+      "name": "Gwen",
+      "Technical Skills": 9.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 3.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Otis",
+      "Technical Skills": 6.0,
+      "Soft Skills": 5.0,
+      "Business Skills": 8.0,
+      "Creative Skills": 4.0,
+      "Academic Skills": 3.0
+    },
+    {
+      "name": "Quinn",
+      "Technical Skills": 9.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 5.0,
+      "Creative Skills": 5.7,
+      "Academic Skills": 5.7
+    },
+    {
+      "name": "Ian",
+      "Technical Skills": 8.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Megan",
+      "Technical Skills": 2.0,
+      "Soft Skills": 4.0,
+      "Business Skills": 2.0,
+      "Creative Skills": 6.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Eve",
+      "Technical Skills": 9.7,
+      "Soft Skills": 10.0,
+      "Business Skills": 9.7,
+      "Creative Skills": 10.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Kim",
+      "Technical Skills": 9.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 9.2
+    },
+    {
+      "name": "Xiomara",
+      "Technical Skills": 8.0,
+      "Soft Skills": 2.0,
+      "Business Skills": 6.2,
+      "Creative Skills": 5.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Louis",
+      "Technical Skills": 10.0,
+      "Soft Skills": 7.0,
+      "Business Skills": 2.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Leonard",
+      "Technical Skills": 8.0,
+      "Soft Skills": 5.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 1.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Mindy",
+      "Technical Skills": 10.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Trevor",
+      "Technical Skills": 7.0,
+      "Soft Skills": 5.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Oscar",
+      "Technical Skills": 9.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 3.0,
+      "Academic Skills": 6.5
+    },
+    {
+      "name": "Pam",
+      "Technical Skills": 7.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 8.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 5.0
+    },
+    {
+      "name": "Grace",
+      "Technical Skills": 5.0,
+      "Soft Skills": 7.0,
+      "Business Skills": 3.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 1.0
+    },
+    {
+      "name": "Upton",
+      "Technical Skills": 9.2,
+      "Soft Skills": 9.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Avery",
+      "Technical Skills": 9.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 7.8,
+      "Creative Skills": 9.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Howard",
+      "Technical Skills": 3.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 7.2,
+      "Creative Skills": 9.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Daisy",
+      "Technical Skills": 10.0,
+      "Soft Skills": 7.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 6.8,
+      "Academic Skills": 1.0
+    },
+    {
+      "name": "Dave",
+      "Technical Skills": 3.5,
+      "Soft Skills": 6.0,
+      "Business Skills": 2.0,
+      "Creative Skills": 2.0,
+      "Academic Skills": 4.0
+    },
+    {
+      "name": "Ursula",
+      "Technical Skills": 1.0,
+      "Soft Skills": 6.0,
+      "Business Skills": 3.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Bill",
+      "Technical Skills": 6.3,
+      "Soft Skills": 6.3,
+      "Business Skills": 8.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 1.0
+    },
+    {
+      "name": "Vivian",
+      "Technical Skills": 6.5,
+      "Soft Skills": 4.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Xyla",
+      "Technical Skills": 10.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 8.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Ulrich",
+      "Technical Skills": 7.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 7.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Katie",
+      "Technical Skills": 6.0,
+      "Soft Skills": 6.7,
+      "Business Skills": 6.7,
+      "Creative Skills": 10.0,
+      "Academic Skills": 4.0
+    },
+    {
+      "name": "Preston",
+      "Technical Skills": 4.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 4.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Queenie",
+      "Technical Skills": 10.0,
+      "Soft Skills": 8.2,
+      "Business Skills": 9.0,
+      "Creative Skills": 5.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Gerald",
+      "Technical Skills": 2.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 1.0
+    },
+    {
+      "name": "Isaac",
+      "Technical Skills": 3.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 6.8
+    },
+    {
+      "name": "Nick",
+      "Technical Skills": 5.7,
+      "Soft Skills": 8.0,
+      "Business Skills": 1.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 5.7
+    },
+    {
+      "name": "Gina",
+      "Technical Skills": 7.2,
+      "Soft Skills": 8.0,
+      "Business Skills": 5.0,
+      "Creative Skills": 7.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Alice",
+      "Technical Skills": 9.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 8.5,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Arthur",
+      "Technical Skills": 10.0,
+      "Soft Skills": 5.7,
+      "Business Skills": 6.0,
+      "Creative Skills": 5.7,
+      "Academic Skills": 1.0
+    },
+    {
+      "name": "Catherine",
+      "Technical Skills": 10.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 2.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Walter",
+      "Technical Skills": 10.0,
+      "Soft Skills": 9.3,
+      "Business Skills": 10.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 9.3
+    },
+    {
+      "name": "Amy",
+      "Technical Skills": 6.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Wilma",
+      "Technical Skills": 8.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 8.7,
+      "Creative Skills": 10.0,
+      "Academic Skills": 8.7
+    },
+    {
+      "name": "Ned",
+      "Technical Skills": 4.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Vera",
+      "Technical Skills": 7.0,
+      "Soft Skills": 8.3,
+      "Business Skills": 8.3,
+      "Creative Skills": 8.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Ivy",
+      "Technical Skills": 4.0,
+      "Soft Skills": 3.7,
+      "Business Skills": 3.7,
+      "Creative Skills": 2.0,
+      "Academic Skills": 5.0
+    },
+    {
+      "name": "Susie",
+      "Technical Skills": 8.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 6.2,
+      "Creative Skills": 2.0,
+      "Academic Skills": 7.0
+    },
+    {
+      "name": "Tina",
+      "Technical Skills": 8.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 5.0,
+      "Creative Skills": 6.0,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Daniel",
+      "Technical Skills": 5.0,
+      "Soft Skills": 2.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 5.0,
+      "Academic Skills": 7.0
+    },
+    {
+      "name": "Camille",
+      "Technical Skills": 8.0,
+      "Soft Skills": 5.7,
+      "Business Skills": 2.0,
+      "Creative Skills": 7.0,
+      "Academic Skills": 5.7
+    },
+    {
+      "name": "Rhonda",
+      "Technical Skills": 2.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 8.0,
+      "Creative Skills": 6.8,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Ron",
+      "Technical Skills": 6.0,
+      "Soft Skills": 4.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 5.5,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Paul",
+      "Technical Skills": 3.3,
+      "Soft Skills": 3.3,
+      "Business Skills": 2.0,
+      "Creative Skills": 4.0,
+      "Academic Skills": 4.0
+    },
+    {
+      "name": "Olivia",
+      "Technical Skills": 10.0,
+      "Soft Skills": 7.0,
+      "Business Skills": 3.0,
+      "Creative Skills": 6.0,
+      "Academic Skills": 4.0
+    },
+    {
+      "name": "Tom",
+      "Technical Skills": 9.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Quincy",
+      "Technical Skills": 6.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 3.0,
+      "Creative Skills": 1.0,
+      "Academic Skills": 4.8
+    },
+    {
+      "name": "Zinnia",
+      "Technical Skills": 9.3,
+      "Soft Skills": 9.3,
+      "Business Skills": 9.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "George",
+      "Technical Skills": 8.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 7.3,
+      "Creative Skills": 5.0,
+      "Academic Skills": 7.3
+    },
+    {
+      "name": "Ken",
+      "Technical Skills": 2.0,
+      "Soft Skills": 5.5,
+      "Business Skills": 8.0,
+      "Creative Skills": 3.0,
+      "Academic Skills": 9.0
+    },
+    {
+      "name": "Clara",
+      "Technical Skills": 5.8,
+      "Soft Skills": 6.0,
+      "Business Skills": 1.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Mary",
+      "Technical Skills": 6.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 3.0
+    },
+    {
+      "name": "Quasar",
+      "Technical Skills": 4.0,
+      "Soft Skills": 1.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Yogi",
+      "Technical Skills": 1.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 10.0,
+      "Academic Skills": 6.5
+    },
+    {
+      "name": "Julian",
+      "Technical Skills": 4.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 1.0,
+      "Creative Skills": 2.0,
+      "Academic Skills": 4.0
+    },
+    {
+      "name": "Ulysses",
+      "Technical Skills": 8.0,
+      "Soft Skills": 7.5,
+      "Business Skills": 7.0,
+      "Creative Skills": 5.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Ulla",
+      "Technical Skills": 7.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 2.0,
+      "Academic Skills": 7.0
+    },
+    {
+      "name": "Helen",
+      "Technical Skills": 8.2,
+      "Soft Skills": 8.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Dexter",
+      "Technical Skills": 5.7,
+      "Soft Skills": 2.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 5.7,
+      "Academic Skills": 6.0
+    },
+    {
+      "name": "Carlos",
+      "Technical Skills": 3.7,
+      "Soft Skills": 1.0,
+      "Business Skills": 3.7,
+      "Creative Skills": 9.0,
+      "Academic Skills": 1.0
+    },
+    {
+      "name": "Xander",
+      "Technical Skills": 6.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 3.0,
+      "Creative Skills": 9.0,
+      "Academic Skills": 2.0
+    },
+    {
+      "name": "Olive",
+      "Technical Skills": 8.0,
+      "Soft Skills": 8.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 6.0,
+      "Academic Skills": 8.0
+    },
+    {
+      "name": "Tabitha",
+      "Technical Skills": 8.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 6.0,
+      "Creative Skills": 8.0,
+      "Academic Skills": 3.0
+    },
+    {
+      "name": "Ella",
+      "Technical Skills": 9.0,
+      "Soft Skills": 9.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 7.3,
+      "Academic Skills": 7.3
+    },
+    {
+      "name": "Maureen",
+      "Technical Skills": 4.0,
+      "Soft Skills": 1.0,
+      "Business Skills": 4.0,
+      "Creative Skills": 1.0,
+      "Academic Skills": 10.0
+    },
+    {
+      "name": "Wanda",
+      "Technical Skills": 8.0,
+      "Soft Skills": 3.0,
+      "Business Skills": 10.0,
+      "Creative Skills": 4.0,
+      "Academic Skills": 5.0
+    },
+    {
+      "name": "Angela",
+      "Technical Skills": 10.0,
+      "Soft Skills": 10.0,
+      "Business Skills": 9.0,
+      "Creative Skills": 2.0,
+      "Academic Skills": 5.0
     }
   ]
 }
