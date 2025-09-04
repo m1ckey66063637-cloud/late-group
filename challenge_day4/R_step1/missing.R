@@ -23,11 +23,20 @@ for(col_name in names(people_df)) {
   }
 }
 
+<<<<<<< HEAD
 # Replace the 'people' list in the original data with the modified data frame
+=======
+>>>>>>> 4464245908a621d230741f00c56fd1f1754d1ad3
 json_data$people <- people_df
 
 # Convert the updated data back to JSON format
 json_text <- toJSON(json_data, pretty = TRUE)
 
 # Overwrite the original JSON file
+<<<<<<< HEAD
 write(json_text, "/Users/voldemarq/late-group/challenge_day4/testdata/data2.json")
+=======
+write(json_text, "data2.json")
+
+
+>>>>>>> 4464245908a621d230741f00c56fd1f1754d1ad3
