@@ -3,13 +3,13 @@ import scala.util.Try
 
 object Main {
   def main(args: Array[String]): Unit = {
-    val filePath = "data6.txt"
-    val lines = scala.io.Source.fromFile(filePath).getLines().toList
+    val filePath = "/Users/voldemarq/late-group/challenge_day4/fulldata/data1.json"
+    val lines = Try(scala.io.Source.fromFile(filePath).getLines().toList).getOrElse(List())
     val outputLines = lines.zipWithIndex.map {
       case (line, 0) => s"$line,Comments"
       case (line, _) =>
         val parts = line.split(",")
-        if (parts.length < 8) line // skip invalid lines
+        if (parts.length < 9) line // skip invalid lines (need name + 6 skills + summary + evaluation)
         else {
           val summary = parts(7)
           val evaluation = parts(8).toFloat
@@ -23,6 +23,6 @@ object Main {
         }
     }
 
-    Files.write(Paths.get("data7.txt"), output_each_Lines.mkString("\n").getBytes)
+    Files.write(Paths.get("/Users/voldemarq/late-group/challenge_day4/testdata/data7.txt"), outputLines.mkString("\n").getBytes)
   }
 }

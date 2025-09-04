@@ -5,16 +5,16 @@ use std::fs::OpenOptions;
 use std::io::Write;
 
 fn main() -> io::Result<()> {
-    let path = Path::new("data5.txt");
+    let path = Path::new("/Users/voldemarq/late-group/challenge_day4/fulldata/data1.json");
     let file = File::open(&path)?;
     let reader = io::BufReader::new(file);
     
     let mut output = OpenOptions::new()
         .write(true)
         .create(true)
-        .open("data6.txt")?;
+        .open("/Users/voldemarq/late-group/challenge_day4/testdata/data6.txt")?;
     
-    for (indexing, line) in reader.lines().enumerate() {
+    for (index, line) in reader.lines().enumerate() {
         let line = line?;
         
         if index == 0 {
@@ -59,7 +59,7 @@ fn main() -> io::Result<()> {
             0.0 // or whatever you want to set it to if no skills are evaluated
         };
         
-        writeln!(output, "{},{},{}", line, parts[6], evaluation)?;
+        writeln!(output, "{},{:.2}", line, evaluation)?;
     }
     
     Ok(())

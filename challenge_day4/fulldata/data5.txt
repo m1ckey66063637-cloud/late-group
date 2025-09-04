@@ -1,0 +1,25 @@
+Name,Technical Skills,Soft Skills,Business Skills,Creative Skills,Academic Skills,Summary
+Leo,8,10,7,8,7,low
+Hugo,9,3,10,9,6,low
+Jeff,7,10,10,7,10,low
+Gail,6,6,8,8,2,low
+Jack,1,5,9,8,8,low
+Rose,10,6,10,8,9,low
+Victor,10,2,2,9,10,low
+Otis,6,5,8,4,10,low
+Megan,2,4,9,10,10,low
+Louis,10,5,10,8,10,low
+Oscar,9,8,8,8,1,low
+Upton,9,3,9,2,4,low
+Ursula,1,4,4,8,4,low
+Preston,4,8,6,10,9,low
+Alice,9,10,6,2,10,low
+Walter,10,8,10,10,8,low
+Vera,7,8,5,6,6,low
+Daniel,8,8,8,4,4,low
+Olivia,10,9,9,1,10,low
+George,8,9,8,3,6,low
+Mary,6,10,4,10,3,low
+Quasar,4,1,6,10,4,low
+Ulysses,8,9,10,9,6,low
+Dexter,8,8,6,8,10,low
