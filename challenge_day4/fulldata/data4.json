@@ -1,0 +1,84 @@
+{
+    "people": [
+        {
+            "name": "Ken",
+            "Soft Skills": "good",
+            "Business Skills": "super",
+            "Academic Skills": "super",
+            "Creative Skills": "low",
+            "Technical Skills": "super"
+        },
+        {
+            "name": "Uma",
+            "Soft Skills": "middle",
+            "Business Skills": "low",
+            "Academic Skills": "middle",
+            "Creative Skills": "super",
+            "Technical Skills": "low"
+        },
+        {
+            "name": "Yara",
+            "Soft Skills": "middle",
+            "Business Skills": "low",
+            "Academic Skills": "middle",
+            "Creative Skills": "low",
+            "Technical Skills": "low"
+        },
+        {
+            "name": "Karen",
+            "Soft Skills": "middle",
+            "Business Skills": "middle",
+            "Academic Skills": "low",
+            "Creative Skills": "middle",
+            "Technical Skills": "middle"
+        },
+        {
+            "name": "Dave",
+            "Soft Skills": "super",
+            "Business Skills": "middle",
+            "Academic Skills": "low",
+            "Creative Skills": "super",
+            "Technical Skills": "good"
+        },
+        {
+            "name": "Kristen",
+            "Soft Skills": "super",
+            "Business Skills": "super",
+            "Academic Skills": "middle",
+            "Creative Skills": "middle",
+            "Technical Skills": "middle"
+        },
+        {
+            "name": "Paula",
+            "Soft Skills": "low",
+            "Business Skills": "low",
+            "Academic Skills": "low",
+            "Creative Skills": "low",
+            "Technical Skills": "low"
+        },
+        {
+            "name": "Ursula",
+            "Soft Skills": "super",
+            "Business Skills": "good",
+            "Academic Skills": "low",
+            "Creative Skills": "middle",
+            "Technical Skills": "super"
+        },
+        {
+            "name": "Ivy",
+            "Soft Skills": "low",
+            "Business Skills": "super",
+            "Academic Skills": "middle",
+            "Creative Skills": "super",
+            "Technical Skills": "middle"
+        },
+        {
+            "name": "Roger",
+            "Soft Skills": "low",
+            "Business Skills": "middle",
+            "Academic Skills": "super",
+            "Creative Skills": "middle",
+            "Technical Skills": "good"
+        }
+    ]
+}
