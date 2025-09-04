@@ -37,4 +37,4 @@ for col_name in names(people_df)[2:end]
 end
 
 # Save the modified DataFrame to a new TXT file
-CSV.write("/Users/voldemarq/late-group/challenge_day4/testdata/data4.txt", people_df)
+CSV.write("/Users/voldemarq/late-group/challenge_day4/fulldata/data4.txt", people_df)
