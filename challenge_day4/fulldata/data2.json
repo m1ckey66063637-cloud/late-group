@@ -2,803 +2,803 @@
   "people": [
     {
       "name": "Leo",
-      "Technical Skills": 8.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 8.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 8.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Liam",
-      "Technical Skills": 10.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 8.8,
-      "Creative Skills": 8.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 8.750,
+      "Creative Skills": 8.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Neil",
-      "Technical Skills": 10.0,
-      "Soft Skills": 4.0,
-      "Business Skills": 7.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 4.000,
+      "Business Skills": 7.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Wesley",
-      "Technical Skills": 1.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 7.0,
-      "Creative Skills": 6.0,
-      "Academic Skills": 7.0
+      "Technical Skills": 1.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 7.000,
+      "Creative Skills": 6.000,
+      "Academic Skills": 7.000
     },
     {
       "name": "Hugo",
-      "Technical Skills": 9.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 1.0,
-      "Creative Skills": 1.0,
-      "Academic Skills": 2.0
+      "Technical Skills": 9.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 1.000,
+      "Creative Skills": 1.000,
+      "Academic Skills": 2.000
     },
     {
       "name": "Kathy",
-      "Technical Skills": 5.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 6.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 5.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 6.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Emily",
-      "Technical Skills": 6.7,
-      "Soft Skills": 9.0,
-      "Business Skills": 2.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 6.7
+      "Technical Skills": 6.667,
+      "Soft Skills": 9.000,
+      "Business Skills": 2.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 6.667
     },
     {
       "name": "Bob",
-      "Technical Skills": 5.0,
-      "Soft Skills": 4.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 5.000,
+      "Soft Skills": 4.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Lenny",
-      "Technical Skills": 6.5,
-      "Soft Skills": 9.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 5.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 6.500,
+      "Soft Skills": 9.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 5.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Jeff",
-      "Technical Skills": 7.0,
-      "Soft Skills": 1.0,
-      "Business Skills": 1.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 7.000,
+      "Soft Skills": 1.000,
+      "Business Skills": 1.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Nina",
-      "Technical Skills": 1.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 1.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Mabel",
-      "Technical Skills": 10.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 7.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 7.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Kristen",
-      "Technical Skills": 5.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 5.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Gail",
-      "Technical Skills": 6.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 1.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 5.0
+      "Technical Skills": 6.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 1.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 5.000
     },
     {
       "name": "Yasmine",
-      "Technical Skills": 2.0,
-      "Soft Skills": 5.5,
-      "Business Skills": 9.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 2.0
+      "Technical Skills": 2.000,
+      "Soft Skills": 5.500,
+      "Business Skills": 9.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 2.000
     },
     {
       "name": "Tim",
-      "Technical Skills": 10.0,
-      "Soft Skills": 6.0,
-      "Business Skills": 5.0,
-      "Creative Skills": 1.0,
-      "Academic Skills": 3.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 6.000,
+      "Business Skills": 5.000,
+      "Creative Skills": 1.000,
+      "Academic Skills": 3.000
     },
     {
       "name": "Yvonne",
-      "Technical Skills": 8.7,
-      "Soft Skills": 9.0,
-      "Business Skills": 8.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 8.7
+      "Technical Skills": 8.667,
+      "Soft Skills": 9.000,
+      "Business Skills": 8.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 8.667
     },
     {
       "name": "Owen",
-      "Technical Skills": 2.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 2.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Fay",
-      "Technical Skills": 1.0,
-      "Soft Skills": 1.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 2.0
+      "Technical Skills": 1.000,
+      "Soft Skills": 1.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 2.000
     },
     {
       "name": "Jack",
-      "Technical Skills": 1.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 4.3,
-      "Academic Skills": 4.3
+      "Technical Skills": 1.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 4.333,
+      "Academic Skills": 4.333
     },
     {
       "name": "Norm",
-      "Technical Skills": 10.0,
-      "Soft Skills": 5.0,
-      "Business Skills": 2.0,
-      "Creative Skills": 6.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 5.000,
+      "Business Skills": 2.000,
+      "Creative Skills": 6.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Duke",
-      "Technical Skills": 3.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 4.5,
-      "Creative Skills": 1.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 3.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 4.500,
+      "Creative Skills": 1.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Tracy",
-      "Technical Skills": 10.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Rose",
-      "Technical Skills": 10.0,
-      "Soft Skills": 7.3,
-      "Business Skills": 7.3,
-      "Creative Skills": 3.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 7.333,
+      "Business Skills": 7.333,
+      "Creative Skills": 3.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Steve",
-      "Technical Skills": 2.0,
-      "Soft Skills": 6.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 2.000,
+      "Soft Skills": 6.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Irene",
-      "Technical Skills": 7.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 5.0
+      "Technical Skills": 7.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 5.000
     },
     {
       "name": "Roger",
-      "Technical Skills": 8.0,
-      "Soft Skills": 1.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 1.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Sam",
-      "Technical Skills": 8.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 8.3,
-      "Creative Skills": 8.3,
-      "Academic Skills": 9.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 8.333,
+      "Creative Skills": 8.333,
+      "Academic Skills": 9.000
     },
     {
       "name": "Victor",
-      "Technical Skills": 10.0,
-      "Soft Skills": 2.0,
-      "Business Skills": 2.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 2.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 2.000,
+      "Business Skills": 2.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 2.000
     },
     {
       "name": "Gwen",
-      "Technical Skills": 9.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 3.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 9.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 3.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Otis",
-      "Technical Skills": 6.0,
-      "Soft Skills": 5.0,
-      "Business Skills": 8.0,
-      "Creative Skills": 4.0,
-      "Academic Skills": 3.0
+      "Technical Skills": 6.000,
+      "Soft Skills": 5.000,
+      "Business Skills": 8.000,
+      "Creative Skills": 4.000,
+      "Academic Skills": 3.000
     },
     {
       "name": "Quinn",
-      "Technical Skills": 9.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 5.0,
-      "Creative Skills": 5.7,
-      "Academic Skills": 5.7
+      "Technical Skills": 9.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 5.000,
+      "Creative Skills": 5.667,
+      "Academic Skills": 5.667
     },
     {
       "name": "Ian",
-      "Technical Skills": 8.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Megan",
-      "Technical Skills": 2.0,
-      "Soft Skills": 4.0,
-      "Business Skills": 2.0,
-      "Creative Skills": 6.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 2.000,
+      "Soft Skills": 4.000,
+      "Business Skills": 2.000,
+      "Creative Skills": 6.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Eve",
-      "Technical Skills": 9.7,
-      "Soft Skills": 10.0,
-      "Business Skills": 9.7,
-      "Creative Skills": 10.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 9.667,
+      "Soft Skills": 10.000,
+      "Business Skills": 9.667,
+      "Creative Skills": 10.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Kim",
-      "Technical Skills": 9.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 9.2
+      "Technical Skills": 9.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 9.250
     },
     {
       "name": "Xiomara",
-      "Technical Skills": 8.0,
-      "Soft Skills": 2.0,
-      "Business Skills": 6.2,
-      "Creative Skills": 5.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 2.000,
+      "Business Skills": 6.250,
+      "Creative Skills": 5.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Louis",
-      "Technical Skills": 10.0,
-      "Soft Skills": 7.0,
-      "Business Skills": 2.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 7.000,
+      "Business Skills": 2.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Leonard",
-      "Technical Skills": 8.0,
-      "Soft Skills": 5.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 1.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 5.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 1.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Mindy",
-      "Technical Skills": 10.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Trevor",
-      "Technical Skills": 7.0,
-      "Soft Skills": 5.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 7.000,
+      "Soft Skills": 5.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Oscar",
-      "Technical Skills": 9.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 3.0,
-      "Academic Skills": 6.5
+      "Technical Skills": 9.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 3.000,
+      "Academic Skills": 6.500
     },
     {
       "name": "Pam",
-      "Technical Skills": 7.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 8.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 5.0
+      "Technical Skills": 7.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 8.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 5.000
     },
     {
       "name": "Grace",
-      "Technical Skills": 5.0,
-      "Soft Skills": 7.0,
-      "Business Skills": 3.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 1.0
+      "Technical Skills": 5.000,
+      "Soft Skills": 7.000,
+      "Business Skills": 3.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 1.000
     },
     {
       "name": "Upton",
-      "Technical Skills": 9.2,
-      "Soft Skills": 9.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 9.250,
+      "Soft Skills": 9.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Avery",
-      "Technical Skills": 9.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 7.8,
-      "Creative Skills": 9.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 9.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 7.750,
+      "Creative Skills": 9.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Howard",
-      "Technical Skills": 3.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 7.2,
-      "Creative Skills": 9.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 3.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 7.250,
+      "Creative Skills": 9.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Daisy",
-      "Technical Skills": 10.0,
-      "Soft Skills": 7.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 6.8,
-      "Academic Skills": 1.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 7.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 6.750,
+      "Academic Skills": 1.000
     },
     {
       "name": "Dave",
-      "Technical Skills": 3.5,
-      "Soft Skills": 6.0,
-      "Business Skills": 2.0,
-      "Creative Skills": 2.0,
-      "Academic Skills": 4.0
+      "Technical Skills": 3.500,
+      "Soft Skills": 6.000,
+      "Business Skills": 2.000,
+      "Creative Skills": 2.000,
+      "Academic Skills": 4.000
     },
     {
       "name": "Ursula",
-      "Technical Skills": 1.0,
-      "Soft Skills": 6.0,
-      "Business Skills": 3.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 1.000,
+      "Soft Skills": 6.000,
+      "Business Skills": 3.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Bill",
-      "Technical Skills": 6.3,
-      "Soft Skills": 6.3,
-      "Business Skills": 8.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 1.0
+      "Technical Skills": 6.333,
+      "Soft Skills": 6.333,
+      "Business Skills": 8.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 1.000
     },
     {
       "name": "Vivian",
-      "Technical Skills": 6.5,
-      "Soft Skills": 4.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 6.500,
+      "Soft Skills": 4.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Xyla",
-      "Technical Skills": 10.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 8.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 8.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Ulrich",
-      "Technical Skills": 7.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 7.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 7.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 7.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Katie",
-      "Technical Skills": 6.0,
-      "Soft Skills": 6.7,
-      "Business Skills": 6.7,
-      "Creative Skills": 10.0,
-      "Academic Skills": 4.0
+      "Technical Skills": 6.000,
+      "Soft Skills": 6.667,
+      "Business Skills": 6.667,
+      "Creative Skills": 10.000,
+      "Academic Skills": 4.000
     },
     {
       "name": "Preston",
-      "Technical Skills": 4.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 4.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 4.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 4.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Queenie",
-      "Technical Skills": 10.0,
-      "Soft Skills": 8.2,
-      "Business Skills": 9.0,
-      "Creative Skills": 5.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 8.250,
+      "Business Skills": 9.000,
+      "Creative Skills": 5.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Gerald",
-      "Technical Skills": 2.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 1.0
+      "Technical Skills": 2.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 1.000
     },
     {
       "name": "Isaac",
-      "Technical Skills": 3.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 6.8
+      "Technical Skills": 3.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 6.750
     },
     {
       "name": "Nick",
-      "Technical Skills": 5.7,
-      "Soft Skills": 8.0,
-      "Business Skills": 1.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 5.7
+      "Technical Skills": 5.667,
+      "Soft Skills": 8.000,
+      "Business Skills": 1.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 5.667
     },
     {
       "name": "Gina",
-      "Technical Skills": 7.2,
-      "Soft Skills": 8.0,
-      "Business Skills": 5.0,
-      "Creative Skills": 7.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 7.250,
+      "Soft Skills": 8.000,
+      "Business Skills": 5.000,
+      "Creative Skills": 7.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Alice",
-      "Technical Skills": 9.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 8.5,
-      "Academic Skills": 9.0
+      "Technical Skills": 9.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 8.500,
+      "Academic Skills": 9.000
     },
     {
       "name": "Arthur",
-      "Technical Skills": 10.0,
-      "Soft Skills": 5.7,
-      "Business Skills": 6.0,
-      "Creative Skills": 5.7,
-      "Academic Skills": 1.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 5.667,
+      "Business Skills": 6.000,
+      "Creative Skills": 5.667,
+      "Academic Skills": 1.000
     },
     {
       "name": "Catherine",
-      "Technical Skills": 10.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 2.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 2.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Walter",
-      "Technical Skills": 10.0,
-      "Soft Skills": 9.3,
-      "Business Skills": 10.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 9.3
+      "Technical Skills": 10.000,
+      "Soft Skills": 9.333,
+      "Business Skills": 10.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 9.333
     },
     {
       "name": "Amy",
-      "Technical Skills": 6.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 6.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Wilma",
-      "Technical Skills": 8.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 8.7,
-      "Creative Skills": 10.0,
-      "Academic Skills": 8.7
+      "Technical Skills": 8.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 8.667,
+      "Creative Skills": 10.000,
+      "Academic Skills": 8.667
     },
     {
       "name": "Ned",
-      "Technical Skills": 4.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 4.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Vera",
-      "Technical Skills": 7.0,
-      "Soft Skills": 8.3,
-      "Business Skills": 8.3,
-      "Creative Skills": 8.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 7.000,
+      "Soft Skills": 8.333,
+      "Business Skills": 8.333,
+      "Creative Skills": 8.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Ivy",
-      "Technical Skills": 4.0,
-      "Soft Skills": 3.7,
-      "Business Skills": 3.7,
-      "Creative Skills": 2.0,
-      "Academic Skills": 5.0
+      "Technical Skills": 4.000,
+      "Soft Skills": 3.667,
+      "Business Skills": 3.667,
+      "Creative Skills": 2.000,
+      "Academic Skills": 5.000
     },
     {
       "name": "Susie",
-      "Technical Skills": 8.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 6.2,
-      "Creative Skills": 2.0,
-      "Academic Skills": 7.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 6.250,
+      "Creative Skills": 2.000,
+      "Academic Skills": 7.000
     },
     {
       "name": "Tina",
-      "Technical Skills": 8.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 5.0,
-      "Creative Skills": 6.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 5.000,
+      "Creative Skills": 6.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Daniel",
-      "Technical Skills": 5.0,
-      "Soft Skills": 2.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 5.0,
-      "Academic Skills": 7.0
+      "Technical Skills": 5.000,
+      "Soft Skills": 2.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 5.000,
+      "Academic Skills": 7.000
     },
     {
       "name": "Camille",
-      "Technical Skills": 8.0,
-      "Soft Skills": 5.7,
-      "Business Skills": 2.0,
-      "Creative Skills": 7.0,
-      "Academic Skills": 5.7
+      "Technical Skills": 8.000,
+      "Soft Skills": 5.667,
+      "Business Skills": 2.000,
+      "Creative Skills": 7.000,
+      "Academic Skills": 5.667
     },
     {
       "name": "Rhonda",
-      "Technical Skills": 2.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 8.0,
-      "Creative Skills": 6.8,
-      "Academic Skills": 9.0
+      "Technical Skills": 2.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 8.000,
+      "Creative Skills": 6.750,
+      "Academic Skills": 9.000
     },
     {
       "name": "Ron",
-      "Technical Skills": 6.0,
-      "Soft Skills": 4.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 5.5,
-      "Academic Skills": 6.0
+      "Technical Skills": 6.000,
+      "Soft Skills": 4.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 5.500,
+      "Academic Skills": 6.000
     },
     {
       "name": "Paul",
-      "Technical Skills": 3.3,
-      "Soft Skills": 3.3,
-      "Business Skills": 2.0,
-      "Creative Skills": 4.0,
-      "Academic Skills": 4.0
+      "Technical Skills": 3.333,
+      "Soft Skills": 3.333,
+      "Business Skills": 2.000,
+      "Creative Skills": 4.000,
+      "Academic Skills": 4.000
     },
     {
       "name": "Olivia",
-      "Technical Skills": 10.0,
-      "Soft Skills": 7.0,
-      "Business Skills": 3.0,
-      "Creative Skills": 6.0,
-      "Academic Skills": 4.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 7.000,
+      "Business Skills": 3.000,
+      "Creative Skills": 6.000,
+      "Academic Skills": 4.000
     },
     {
       "name": "Tom",
-      "Technical Skills": 9.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 9.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Quincy",
-      "Technical Skills": 6.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 3.0,
-      "Creative Skills": 1.0,
-      "Academic Skills": 4.8
+      "Technical Skills": 6.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 3.000,
+      "Creative Skills": 1.000,
+      "Academic Skills": 4.750
     },
     {
       "name": "Zinnia",
-      "Technical Skills": 9.3,
-      "Soft Skills": 9.3,
-      "Business Skills": 9.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 9.333,
+      "Soft Skills": 9.333,
+      "Business Skills": 9.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "George",
-      "Technical Skills": 8.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 7.3,
-      "Creative Skills": 5.0,
-      "Academic Skills": 7.3
+      "Technical Skills": 8.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 7.333,
+      "Creative Skills": 5.000,
+      "Academic Skills": 7.333
     },
     {
       "name": "Ken",
-      "Technical Skills": 2.0,
-      "Soft Skills": 5.5,
-      "Business Skills": 8.0,
-      "Creative Skills": 3.0,
-      "Academic Skills": 9.0
+      "Technical Skills": 2.000,
+      "Soft Skills": 5.500,
+      "Business Skills": 8.000,
+      "Creative Skills": 3.000,
+      "Academic Skills": 9.000
     },
     {
       "name": "Clara",
-      "Technical Skills": 5.8,
-      "Soft Skills": 6.0,
-      "Business Skills": 1.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 5.750,
+      "Soft Skills": 6.000,
+      "Business Skills": 1.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Mary",
-      "Technical Skills": 6.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 3.0
+      "Technical Skills": 6.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 3.000
     },
     {
       "name": "Quasar",
-      "Technical Skills": 4.0,
-      "Soft Skills": 1.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 4.000,
+      "Soft Skills": 1.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Yogi",
-      "Technical Skills": 1.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 10.0,
-      "Academic Skills": 6.5
+      "Technical Skills": 1.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 10.000,
+      "Academic Skills": 6.500
     },
     {
       "name": "Julian",
-      "Technical Skills": 4.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 1.0,
-      "Creative Skills": 2.0,
-      "Academic Skills": 4.0
+      "Technical Skills": 4.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 1.000,
+      "Creative Skills": 2.000,
+      "Academic Skills": 4.000
     },
     {
       "name": "Ulysses",
-      "Technical Skills": 8.0,
-      "Soft Skills": 7.5,
-      "Business Skills": 7.0,
-      "Creative Skills": 5.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 7.500,
+      "Business Skills": 7.000,
+      "Creative Skills": 5.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Ulla",
-      "Technical Skills": 7.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 2.0,
-      "Academic Skills": 7.0
+      "Technical Skills": 7.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 2.000,
+      "Academic Skills": 7.000
     },
     {
       "name": "Helen",
-      "Technical Skills": 8.2,
-      "Soft Skills": 8.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 6.0
+      "Technical Skills": 8.250,
+      "Soft Skills": 8.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 6.000
     },
     {
       "name": "Dexter",
-      "Technical Skills": 5.7,
-      "Soft Skills": 2.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 5.7,
-      "Academic Skills": 6.0
+      "Technical Skills": 5.667,
+      "Soft Skills": 2.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 5.667,
+      "Academic Skills": 6.000
     },
     {
       "name": "Carlos",
-      "Technical Skills": 3.7,
-      "Soft Skills": 1.0,
-      "Business Skills": 3.7,
-      "Creative Skills": 9.0,
-      "Academic Skills": 1.0
+      "Technical Skills": 3.667,
+      "Soft Skills": 1.000,
+      "Business Skills": 3.667,
+      "Creative Skills": 9.000,
+      "Academic Skills": 1.000
     },
     {
       "name": "Xander",
-      "Technical Skills": 6.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 3.0,
-      "Creative Skills": 9.0,
-      "Academic Skills": 2.0
+      "Technical Skills": 6.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 3.000,
+      "Creative Skills": 9.000,
+      "Academic Skills": 2.000
     },
     {
       "name": "Olive",
-      "Technical Skills": 8.0,
-      "Soft Skills": 8.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 6.0,
-      "Academic Skills": 8.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 8.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 6.000,
+      "Academic Skills": 8.000
     },
     {
       "name": "Tabitha",
-      "Technical Skills": 8.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 6.0,
-      "Creative Skills": 8.0,
-      "Academic Skills": 3.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 6.000,
+      "Creative Skills": 8.000,
+      "Academic Skills": 3.000
     },
     {
       "name": "Ella",
-      "Technical Skills": 9.0,
-      "Soft Skills": 9.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 7.3,
-      "Academic Skills": 7.3
+      "Technical Skills": 9.000,
+      "Soft Skills": 9.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 7.333,
+      "Academic Skills": 7.333
     },
     {
       "name": "Maureen",
-      "Technical Skills": 4.0,
-      "Soft Skills": 1.0,
-      "Business Skills": 4.0,
-      "Creative Skills": 1.0,
-      "Academic Skills": 10.0
+      "Technical Skills": 4.000,
+      "Soft Skills": 1.000,
+      "Business Skills": 4.000,
+      "Creative Skills": 1.000,
+      "Academic Skills": 10.000
     },
     {
       "name": "Wanda",
-      "Technical Skills": 8.0,
-      "Soft Skills": 3.0,
-      "Business Skills": 10.0,
-      "Creative Skills": 4.0,
-      "Academic Skills": 5.0
+      "Technical Skills": 8.000,
+      "Soft Skills": 3.000,
+      "Business Skills": 10.000,
+      "Creative Skills": 4.000,
+      "Academic Skills": 5.000
     },
     {
       "name": "Angela",
-      "Technical Skills": 10.0,
-      "Soft Skills": 10.0,
-      "Business Skills": 9.0,
-      "Creative Skills": 2.0,
-      "Academic Skills": 5.0
+      "Technical Skills": 10.000,
+      "Soft Skills": 10.000,
+      "Business Skills": 9.000,
+      "Creative Skills": 2.000,
+      "Academic Skills": 5.000
     }
   ]
 }
